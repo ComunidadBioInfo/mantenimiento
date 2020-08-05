@@ -12,8 +12,9 @@
 
 # Verifica que version tienes ahora?
 
-# La funcion old.packages() nos da la lista de paquetes que tienen disponible
-# una versión actualizada, usala y verifica que detecte el paquete ggplot2
+# Las funciones old.packages() y BiocManager::valid() nos dan la lista de
+# paquetes que tienen disponible una actualizacion. Usala y verifica que
+# detecte el paquete ggplot2
 
 # Actualiza este paquete usando alguna de las funciones que mencionamos
 # previamente en la presentacion
